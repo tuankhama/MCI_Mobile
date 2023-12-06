@@ -14,5 +14,5 @@ To start Metro, run the following command from the _root_ of your React Native p
 - yarn start
 
 # using app
-- tuantaps22199@gmail.com
-- abc123
+- Email: tuantaps22199@gmail.com
+- Password: abc123
